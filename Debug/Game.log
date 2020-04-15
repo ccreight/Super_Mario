@@ -1,0 +1,48 @@
+﻿  Actor.cpp
+  AnimatedSprite.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Block.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  CollisionComponent.cpp
+  Component.cpp
+  Game.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Goomba.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  GoombaMove.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\Goomba.cpp(27,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.cpp(17,30): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.cpp(22,30): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  Main.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+  Math.cpp
+  MoveComponent.cpp
+  Player.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  PlayerMove.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  Random.cpp
+  Spawner.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  SpriteComponent.cpp
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\GoombaMove.h(15,30): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\SpriteComponent.cpp(30,45): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\SpriteComponent.cpp(31,45): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Game.vcxproj -> C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\Debug\Game.exe
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\libfreetype-6.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\libogg-0.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\libpng16-16.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\libvorbis-0.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\libvorbisfile-3.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\SDL2.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\SDL2_image.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\SDL2_mixer.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\SDL2_ttf.dll
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\SDL\lib\win\x86\zlib1.dll
+  10 File(s) copied
+  C:\Users\pickl\OneDrive\Desktop\Docs\ITP380\labs-ccreight\Lab04\\..\Libraries\GLEW\lib\win\x86\glew32.dll
+  1 File(s) copied
